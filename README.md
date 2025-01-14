@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @v1ctorf
 - 👀 I’m interested in: Software Engineering & Artificial Intelligence
-- 🌱 I’m currently learning: Machine Learning 
+- 🌱 I’m currently learning: MediaWiki
 - 📫 Reach me at: [victorf.ch](https://www.victorf.ch)
 
 <!---
